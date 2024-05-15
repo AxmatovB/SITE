@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html style="background:black">
+<head>
+<style>
+  .salom{
+  position: absolute;
+  top:20%;
+  left:50%;
+  transform:translate(-20%,-50%;)}
+    button {
+      border: 3px;
+      background: white;
+      border-radius: 5px;
+      padding: 5px;
+      font-weight: bold;
+      font-size: 20px;
+      text-transform: uppercase;
+    }
+a{
+color: black;}
+h1{
+color: white;}
+
+</style>
+
+
+  <title> All in one </title>
+</head>
+<body>
+  <h1 align="center"><i>Press the button below </i> </h1>
+<button class="salom"">
+<a href=" ">pres</a>
+</button>
+</body>
+</html>
